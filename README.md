@@ -3,7 +3,7 @@
 
 This project is a hands-on learning sandbox to explore Angular's modern standalone components, control flow syntax, signals, and component communication patterns — all in a single file (`main.ts`), using Angular 17+.
 
-🚀 What I Learned
+ What I Learned
 
 Throughout this project, I practiced the following Angular concepts:
 
